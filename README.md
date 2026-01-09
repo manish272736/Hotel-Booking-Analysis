@@ -52,10 +52,8 @@ This analysis focuses on hotel booking cancellations and other factors affecting
 
 ## Key Libraries and Tools
 - **Python**  
-- **Pandas** (data cleaning and manipulation)  
-- **NumPy** (numerical operations)  
+- **Pandas** (data cleaning and manipulation)    
 - **Matplotlib & Seaborn** (data visualization)  
-- **Scikit-learn** (basic predictive modeling)  
 
 ---
 
