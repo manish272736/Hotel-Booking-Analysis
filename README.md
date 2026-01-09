@@ -1,4 +1,4 @@
-# Hotel Booking Demand Analysis
+# Hotel Booking Analysis
 
 ## About the Dataset
 This dataset contains **119,390 observations** for a **City Hotel** and a **Resort Hotel**.  
